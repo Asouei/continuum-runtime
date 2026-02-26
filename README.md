@@ -215,6 +215,16 @@ npm install
 npm test
 ```
 
+🍜 Support the Developer
+
+I built Continuum over a single weekend from a café in Vietnam — juggling two jobs, freelancing to stay afloat, and trying not to burn out.
+The reason was blunt: I was tired of AI-generated code “working” today and exploding tomorrow because the world drifted (deps, environment, CI, everything).
+
+If Continuum saves you or your team hours of CI/CD debugging or real money on API tokens, consider buying me a bowl of Pho. It genuinely helps keep the project alive and moving.
+
+🪙 USDT (TRC20): TXKc7fCQicpcNV2UrthWbAYNz46xs47rmx
+🏦 Bybit UID: 122577535
+
 ## License
 
 MIT
