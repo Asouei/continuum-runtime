@@ -17,6 +17,10 @@
 npm install -g continuum-runtime
 ```
 
+
+https://github.com/user-attachments/assets/9d420871-88b6-46f9-9c65-f7630d44c24c
+
+
 ## Проблема
 
 Каждый день миллионы разработчиков используют ИИ для генерации кода. Каждую неделю этот код ломается:
@@ -208,7 +212,7 @@ Continuum → ЗАЧЕМ это было создано и ДОКАЗАТЕЛЬ�
 Мы строим инфраструктуру для разработчиков, а не ИИ-продукт. PR приветствуются.
 
 ```bash
-git clone https://github.com/your-org/continuum-runtime
+git clone https://github.com/Asouei/continuum-runtime
 cd continuum-runtime
 npm install
 npm test
