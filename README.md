@@ -17,6 +17,10 @@ Think of it as **CI/CD for the AI era**: not just "did the tests pass?" but "can
 npm install -g continuum-runtime
 ```
 
+
+https://github.com/user-attachments/assets/fc314d49-c190-4bba-b9bc-025d9a0fd4c9
+
+
 ## The Problem
 
 Every day, millions of developers use AI to generate code. Every week, that code breaks:
@@ -209,7 +213,7 @@ Continuum → tracks WHY it was built and PROVES it still works
 We're building developer infrastructure, not an AI product. PRs welcome.
 
 ```bash
-git clone https://github.com/your-org/continuum-runtime
+git clone https://github.com/Asouei/continuum-runtime
 cd continuum-runtime
 npm install
 npm test
